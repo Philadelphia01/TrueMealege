@@ -1,0 +1,25 @@
+# TrueMileage Backend Dependencies
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Audio Processing
+librosa>=0.10.1
+numpy>=1.24.0
+soundfile>=0.12.1
+
+# HTTP Client
+httpx>=0.26.0
+
+# Data Validation
+pydantic>=2.5.0
+
+# Firebase Admin (optional, for token verification)
+# firebase-admin>=6.3.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# File Upload
+python-multipart>=0.0.6

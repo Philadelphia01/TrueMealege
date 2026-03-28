@@ -1,0 +1,24 @@
+{
+  "name": "TrueMileage - AI Vehicle Auditor",
+  "short_name": "TrueMileage",
+  "description": "Know a car before you buy it. AI-powered engine analysis and vehicle verification.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#0D2A5D",
+  "theme_color": "#0D2A5D",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
